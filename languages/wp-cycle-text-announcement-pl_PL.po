@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp cycle text announcement\n"
+"POT-Creation-Date: 2015-11-24 22:28+0800\n"
+"PO-Revision-Date: 2015-11-24 22:28+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-cycle-text-announcement.php:88 ../wp-cycle-text-announcement.php:241
+msgid "No records found"
+msgstr "Wszystkich pozycji"
+
+#: ../wp-cycle-text-announcement.php:144 ../pages/content-show.php:54
+#: ../pages/cycle-setting-edit.php:112
+msgid "Wp cycle text announcement"
+msgstr "WP cyklu tekst ogłoszenia"
+
+#: ../wp-cycle-text-announcement.php:146 ../pages/content-add.php:144
+#: ../pages/content-edit.php:175 ../pages/content-show.php:135
+#: ../pages/cycle-setting-edit.php:178 ../pages/cycle-setting-show.php:140
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../wp-cycle-text-announcement.php:147 ../pages/content-add.php:145
+#: ../pages/content-edit.php:176 ../pages/content-show.php:136
+#: ../pages/cycle-setting-edit.php:179 ../pages/cycle-setting-show.php:141
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../wp-cycle-text-announcement.php:250 ../wp-cycle-text-announcement.php:255
+#: ../wp-cycle-text-announcement.php:263
+msgid "Wp cycle text"
+msgstr "Selct cykl kierunek."
+
+#: ../pages/content-add.php:27 ../pages/content-edit.php:56
+msgid "Please enter the announcement."
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../pages/content-add.php:33 ../pages/content-edit.php:62
+msgid "Please enter the link, if no link just enter #."
+msgstr "Podaj link Opt-In."
+
+#: ../pages/content-add.php:39 ../pages/content-edit.php:68
+msgid "Please enter the start date, YYYY-MM-DD."
+msgstr "Proszę podać datę rozpoczęcia popunder w formacie RRRR-MM-DD"
+
+#: ../pages/content-add.php:45 ../pages/content-edit.php:74
+msgid "Please select the setting."
+msgstr "Podaj adres e-mail"
+
+#: ../pages/content-add.php:51 ../pages/content-edit.php:80
+msgid "Please enter the end date, YYYY-MM-DD."
+msgstr "Proszę podać datę rozpoczęcia popunder w formacie RRRR-MM-DD"
+
+#: ../pages/content-add.php:66
+msgid "New details was successfully added."
+msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#: ../pages/content-add.php:92 ../pages/content-edit.php:116
+#: ../pages/cycle-setting-edit.php:104
+msgid "Click here to view the details"
+msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#: ../pages/content-add.php:100
+msgid "Wp cycle text announcement / Add announcement"
+msgstr "WP cyklu tekst ogłoszenia / Add announcement"
+
+#: ../pages/content-add.php:104 ../pages/content-edit.php:128
+#: ../pages/content-show.php:69 ../pages/content-show.php:78
+msgid "Announcement"
+msgstr "Ogłoszenie"
+
+#: ../pages/content-add.php:106 ../pages/content-edit.php:130
+msgid "Enter your announcement text."
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../pages/content-add.php:108 ../pages/content-edit.php:132
+#: ../pages/cycle-setting-edit.php:142 ../pages/cycle-setting-show.php:70
+#: ../pages/cycle-setting-show.php:81
+msgid "Link"
+msgstr "Link"
+
+#: ../pages/content-add.php:110 ../pages/content-edit.php:134
+msgid "Enter your announcement link."
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../pages/content-add.php:112 ../pages/content-edit.php:136
+msgid "Setting name:"
+msgstr "Ustawienia"
+
+#: ../pages/content-add.php:122 ../pages/content-edit.php:154
+msgid "Select a setting for your announcement."
+msgstr "Wprowadź swoją nazwę użytkownika Google Plus."
+
+#: ../pages/content-add.php:124 ../pages/content-add.php:128
+#: ../pages/content-edit.php:156 ../pages/content-edit.php:160
+#: ../pages/content-show.php:71 ../pages/content-show.php:80
+msgid "Start date"
+msgstr "Data rozpoczęcia"
+
+#: ../pages/content-add.php:126 ../pages/content-edit.php:158
+msgid "Enter your announcement display start date, Formate YYYY-MM-DD"
+msgstr ""
+"Wprowadź swoje ogłoszenie daty rozpoczęcia wyświetlania, Mrówczan RRRR-MM-DD"
+
+#: ../pages/content-add.php:130 ../pages/content-edit.php:162
+msgid "Enter your announcement display end date, Formate YYYY-MM-DD"
+msgstr ""
+"Wprowadź swoje ogłoszenie data zakończenia wyświetlania, Mrówczan RRRR-MM-DD"
+
+#: ../pages/content-add.php:136
+msgid "Insert Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../pages/content-add.php:137 ../pages/content-edit.php:168
+#: ../pages/cycle-setting-edit.php:171
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/content-add.php:138 ../pages/content-edit.php:169
+#: ../pages/content-show.php:124 ../pages/cycle-setting-edit.php:172
+#: ../pages/cycle-setting-show.php:129
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/content-edit.php:18 ../pages/content-show.php:24
+#: ../pages/cycle-setting-edit.php:18 ../pages/cycle-setting-show.php:24
+msgid "Oops, selected details doesnt exist"
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/content-edit.php:100 ../pages/cycle-setting-edit.php:87
+msgid "Details was successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-edit.php:124
+msgid "Wp cycle text announcement / Update announcement"
+msgstr "WP cyklu tekst ogłoszenia / Update announcement"
+
+#: ../pages/content-edit.php:167 ../pages/cycle-setting-edit.php:114
+#: ../pages/cycle-setting-edit.php:170
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-show.php:42 ../pages/cycle-setting-show.php:42
+msgid "Selected record was successfully deleted ("
+msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#: ../pages/content-show.php:56
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/content-show.php:68 ../pages/content-show.php:77
+msgid "No"
+msgstr "Nr"
+
+#: ../pages/content-show.php:70 ../pages/content-show.php:79
+msgid "Setting"
+msgstr "Ustawienia"
+
+#: ../pages/content-show.php:72 ../pages/content-show.php:81
+msgid "End date"
+msgstr "Data zakończenia"
+
+#: ../pages/content-show.php:96 ../pages/cycle-setting-show.php:99
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../pages/content-show.php:97
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../pages/content-show.php:110 ../pages/cycle-setting-show.php:116
+msgid "No records available."
+msgstr "Rejestry nie są dostępne."
+
+#: ../pages/content-show.php:121 ../pages/cycle-setting-show.php:127
+msgid "Announcement Management"
+msgstr "Ustawienia zarządzania"
+
+#: ../pages/content-show.php:122 ../pages/cycle-setting-show.php:128
+msgid "Setting Management"
+msgstr "Ustawienia zarządzania"
+
+#: ../pages/content-show.php:123
+msgid "View Shortcode"
+msgstr "Lista subskrybentów"
+
+#: ../pages/content-show.php:128 ../pages/cycle-setting-show.php:133
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../pages/content-show.php:130 ../pages/cycle-setting-show.php:135
+msgid "Add the plugin in the posts or pages using short code."
+msgstr "Dodaj wtyczki na stanowiskach lub stron za pomocą krótkiego kodu."
+
+#: ../pages/content-show.php:131 ../pages/cycle-setting-show.php:136
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../pages/content-show.php:132 ../pages/cycle-setting-show.php:137
+msgid "Drag and drop the widget to your sidebar."
+msgstr "Przeciągnij i upuść widżet (Wyświetlenie całej strony)"
+
+#: ../pages/cycle-setting-edit.php:61
+msgid "Please enter the slider timeout, only number."
+msgstr "Wprowadź szerokość suwak. tylko numer."
+
+#: ../pages/cycle-setting-edit.php:67
+msgid "Please enter the slider speed, only number."
+msgstr "Wprowadź szerokość suwak. tylko numer."
+
+#: ../pages/cycle-setting-edit.php:116 ../pages/cycle-setting-show.php:68
+#: ../pages/cycle-setting-show.php:79
+msgid "Setting name"
+msgstr "Ustawienia"
+
+#: ../pages/cycle-setting-edit.php:137
+msgid "Setting 1 is default for widget."
+msgstr "Widżet ustawienie"
+
+#: ../pages/cycle-setting-edit.php:140
+msgid "Select a setting name."
+msgstr "Wybierz nazwę Galeria dla tego obrazu."
+
+#: ../pages/cycle-setting-edit.php:147
+msgid "Select your link setting."
+msgstr "Podaj adres e-mail"
+
+#: ../pages/cycle-setting-edit.php:149 ../pages/cycle-setting-show.php:72
+#: ../pages/cycle-setting-show.php:83
+msgid "Speed"
+msgstr ""
+"Ilości przewijania, oraz opóźnienie przewijania, ustawia szybkość "
+"przewijania."
+
+#: ../pages/cycle-setting-edit.php:151
+msgid "Enter your speed."
+msgstr "Wpisz wiadomość"
+
+#: ../pages/cycle-setting-edit.php:153 ../pages/cycle-setting-show.php:73
+#: ../pages/cycle-setting-show.php:84
+msgid "Timeout"
+msgstr "Limit czasu"
+
+#: ../pages/cycle-setting-edit.php:155
+msgid "Enter your timeout."
+msgstr "Limit czasu"
+
+#: ../pages/cycle-setting-edit.php:157 ../pages/cycle-setting-show.php:71
+#: ../pages/cycle-setting-show.php:82
+msgid "Direction"
+msgstr "Kierunek"
+
+#: ../pages/cycle-setting-edit.php:164
+msgid "Select cycle direction."
+msgstr "Selct cykl kierunek."
+
+#: ../pages/cycle-setting-show.php:54
+msgid "Wp cycle text announcement / Setting management"
+msgstr "WP cyklu tekst ogłoszenia / Setting management"
+
+#: ../pages/cycle-setting-show.php:55
+msgid "Setting management"
+msgstr "Ustawienia zarządzania"
+
+#: ../pages/cycle-setting-show.php:69 ../pages/cycle-setting-show.php:80
+msgid "Short code"
+msgstr "Krótki kod"
+
+#: ../pages/cycle-setting-show.php:74 ../pages/cycle-setting-show.php:85
+msgid "Random"
+msgstr "Losowo"
+
+#~ msgid "Add announcement details"
+#~ msgstr "Dodaj szczegóły obrazu"
+
+#~ msgid "Update details"
+#~ msgstr "aktualizacja danych szczegółowych"
+
+#~ msgid "Announcement management"
+#~ msgstr "Ustawienia zarządzania"
